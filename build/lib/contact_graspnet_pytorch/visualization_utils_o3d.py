@@ -10,7 +10,7 @@ from matplotlib import cm
 
 from scipy.spatial.transform import Rotation as R
 
-import contact_graspnet_pytorch.mesh_utils as mesh_utils
+import mesh_utils
 
 
 # To fix GLIB open3d error:
